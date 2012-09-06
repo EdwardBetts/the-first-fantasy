@@ -1,5 +1,5 @@
 '''
-Last changed by: Ryan Breaker
+Last changed by: Dale Everett
 '''
 from weightedchoice import weighted_choice_sub
 from random import random

@@ -1,7 +1,5 @@
 '''
-Created on Aug 28, 2012
-
-@author: deverett
+Last changed by: Dale Everett
 '''
 import items
 import copy

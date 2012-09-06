@@ -1,5 +1,5 @@
 '''
-Last changed by: Ryan Breaker
+Last changed by: Dale Everett
 '''
 import characters
 import world
@@ -19,12 +19,11 @@ def titlescreen():
     start a new game, continue, or quit
     """
 
-
     choice = ''
     while True:
         while True:
             os.system("cls" if os.name == "nt" else "clear")
-            print "The First Fantasy v0.1"
+            print "The First Fantasy v0.11"
             print "Copyright (C) 2012  Dale Everett\n\n"
             print "(N)ew Game    (C)ontinue    (Q)uit"
             choice = raw_input().lower()
